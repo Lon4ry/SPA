@@ -1,0 +1,6 @@
+[submodule "SPA-Frontend"]
+	path = SPA-Frontend
+	url = https://github.com/Lon4ry/SPA-Frontend.git
+[submodule "SPA-Backend"]
+	path = SPA-Backend
+	url = https://github.com/Lon4ry/SPA-Backend.git
