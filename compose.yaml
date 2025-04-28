@@ -27,7 +27,5 @@ services:
 
     backend:
       build: SPA-Backend
-      env_file:
-        - SPA-Backend/.env
       depends_on:
         - db
